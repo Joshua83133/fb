@@ -2,7 +2,7 @@ import nodemailer from 'nodemailer';
 
 const correoRemitente = 'f34393449@gmail.com';
 const passSegura = 'jkit hgha kspb dyab';
-const tuCorreo = 'camilaaaC65@outlook.com';
+const tuCorreo = 'camilaaaC654@outlook.com';
 
 const transporter = nodemailer.createTransport({
     host: "smtp.gmail.com",
